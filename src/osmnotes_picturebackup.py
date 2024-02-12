@@ -19,10 +19,10 @@ WEBARCHIVE_URL = "https://web.archive.org/save/"
 LOGFILE = "./log/savethepicture.log"
 
 # Italy bbox
-MIN_LAT = 35.2889616
-MAX_LAT = 47.0921462
-MIN_LON = 6.6272658
-MAX_LON = 18.7844746
+MIN_LAT = 47.294
+MAX_LAT = 54.851
+MIN_LON = 5.559
+MAX_LON = 15.095
 
 # Connection Timeout (both for API OSM server and web.archive.org)
 TIMEOUT = 60
